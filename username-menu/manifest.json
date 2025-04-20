@@ -1,0 +1,23 @@
+{
+  "name": "username-menu",
+  "label": "Username Menu",
+  "type": "widget",
+  "version": "1.17.0",
+  "exbVersion": "1.17.0",
+  "author": "Esri R&D Center Beijing",
+  "description": "This is the widget used in developer guide",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "defaultSize": {
+    "width": 300,
+    "height": 50,
+    "autoHeight": true
+  },
+  "properties": {
+    "hasSettingPage": true
+  },
+  "translatedLocales": [
+    "en",
+    "ru"
+  ]
+}

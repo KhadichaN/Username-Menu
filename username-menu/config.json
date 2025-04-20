@@ -1,0 +1,12 @@
+{
+  "type": "nav",
+  "vertical": false,
+  "standard": {
+    "anchor": "left",
+    "textAlign": "start",
+    "showIcon": true,
+    "submenuMode": "foldable"
+  },
+  "menuStyle": "default",
+  "pageAccess": {} 
+}
